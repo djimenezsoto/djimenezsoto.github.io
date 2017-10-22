@@ -1,8 +1,36 @@
-body {
-  padding-top: 5rem;
 
+.bg-1 {
+	background: black;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: white;
 }
-.starter-template {
+.bg-2 {
+	background-size: 100% 100%;
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.bg-3 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.bg-4 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.bg-5 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.bg-6 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.bg-7 {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.container-fluid {
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
