@@ -1,13 +1,16 @@
 
-.bg-1 {
-	background-color: #2f2f2f;
+.intro-bx {
+	background-image: 
+	linear-gradient(rgba(47,47,47,0.3), rgba(47,47,47,0.3)), url("Images/toris.jpg");
+	background-size: cover;
   padding-top: 100px;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
   text-align: center;
   color: white;
   text-shadow: 2px 2px 4px #000000;
+  min-height: 750px !important;
 }
-.bg-2 {
+.education-bx {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 20px;
 	background-image: 
@@ -17,20 +20,11 @@
   text-align: center;
   text-shadow: 2px 2px 4px #ffffff;
 }
-.bg-3 {
-	background-color: #2f2f2f;
-  padding: 3rem 1.5rem;
-  text-align: center;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 20px;
-	color: white;
-  text-shadow: 2px 2px 4px #000000;
-}
-.bg-4 {
+.tech-bx {
   padding: 3rem 1.5rem;
   text-align: center;
 }
-.bg-5 {
+.exp-bx {
 	background-color: #2f2f2f;
   padding: 3rem 1.5rem;
   text-align: center;
@@ -38,17 +32,20 @@
 	font-size: 20px;
 	color: white;
   text-shadow: 2px 2px 4px #000000;
+  list-style-type: circle;
 }
-.bg-6 {
+.addskills-bx {
   padding: 3rem 1.5rem;
   text-align: center;
 }
-.bg-7 {
-
+.contact-bx {
+	background-color: #2f2f2f;
   padding: 3rem 1.5rem;
   text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
 }
-.bg-8{
+.footer-bx{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background-color: #2f2f2f;
